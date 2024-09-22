@@ -24,7 +24,7 @@ This project is an image search application that uses the Unsplash API to fetch 
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone <[repository-url](https://github.com/Gavrielsh/Image-search-bar-)>
     cd <repository-directory>
     ```
 
